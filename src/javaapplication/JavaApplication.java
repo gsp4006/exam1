@@ -16,7 +16,8 @@ public class JavaApplication {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.printf("first");
+        //System.out.printf("first");
+        System.out.printf("Second");
     
 
     }
